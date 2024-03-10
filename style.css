@@ -36,6 +36,7 @@ margin-top: 100 px;
     overflow: hidden;
     box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
     margin: 20px;
+    
 
 }
 
@@ -53,4 +54,18 @@ font-size: 20px;
 #newsletter-image {
     width: 400px;
     height: 270px;
+}
+
+#short-description p {
+    background-color:rgb(239, 235, 230);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color:#d37a7a;
+    font-size: larger;
+    border-radius: 2px;
+    
+}
+#main-menu li {
+    color:rgb(156, 130, 25);
+    border: #561919;
 }
